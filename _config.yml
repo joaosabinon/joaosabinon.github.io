@@ -1,19 +1,19 @@
 # Site settings
-title: Lorem Ipsum - Web Developer
-description: "A blog about lorem ipsum ..."
+title: João Sabino - Security Analyst
+description: "Um blog para compartilhar e contribuir"
 baseurl: ""
 url: "https://joaosabinon.github.io" 
 
 # User settings
-username: joaosabinon
+username: João Sabino
 user_title: João Sabino - Security Analyst
 email: joao.nsabino@gmail.com
 twitter_username: loremipsum
 github_username:  loremipsum
 gplus_username:  loremipsum
-linkedin_public_url: loremipsum # Example: For public profile 'www.linkedin.com/in/john-smith', 'john-smith' is your linkedin_public_url
+linkedin_public_url: https://www.linkedin.com/in/joao-sabino/
 disqus_username: loremipsum
-profile_picture: https://68.media.tumblr.com/93f384858e9273d5b980b418e2f2f4d5/tumblr_o5i2aybLJG1uapsfmo2_250.png
+profile_picture: https://joaosabinon.github.io/perfil.jpeg
 
 # Build settings
 markdown: kramdown
