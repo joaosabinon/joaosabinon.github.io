@@ -8,11 +8,11 @@ url: "https://joaosabinon.github.io"
 username: João Sabino
 user_title: João Sabino - Security Analyst
 email: joao.nsabino@gmail.com
-twitter_username: loremipsum
-github_username:  loremipsum
+twitter_username: JoaoSabinon
+github_username:  joaosabinon
 gplus_username:  loremipsum
 linkedin_public_url: joao-sabino
-disqus_username: loremipsum
+disqus_username: 
 profile_picture: https://joaosabinon.github.io/perfil.jpeg
 
 # Build settings
@@ -59,12 +59,10 @@ links:
 
 # projects in header index
 projects:
-  - name: fluany
-    url: https://github.com/fluany/fluany
-  - name: vim-frontend
-    url: https://github.com/victorvoid/vim-frontend
-  - name: generator-capybara
-    url: https://github.com/victorvoid/generator-capybara 
+  - name: Sherlock Holmes Web Fuzzer
+    url: https://github.com/joaosabinon/SherlockHolmesWebFuzzer
+  - name: crt.sh resolve
+    url: https://github.com/joaosabinon/crt.sh-resolve
 
 # exclude my node related stuff
 exclude: ['package.json', 'src', 'node_modules']
