@@ -59,7 +59,7 @@ links:
 
 # projects in header index
 projects:
-  - name: Sherlock Holmes Web Fuzzer
+  - name: sherlock holmes web fuzzer
     url: https://github.com/joaosabinon/SherlockHolmesWebFuzzer
   - name: crt.sh resolve
     url: https://github.com/joaosabinon/crt.sh-resolve
