@@ -2,7 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	
 	  <url>
-		<loc>http://localhost:4000/space/</loc>
+		<loc>http://localhost:4000/django/</loc>
+	  </url>
+	
+	  <url>
+		<loc>http://localhost:4000/i/</loc>
 	  </url>
 	
 </urlset>

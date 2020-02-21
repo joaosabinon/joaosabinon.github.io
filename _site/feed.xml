@@ -5,21 +5,35 @@
     <description>Um blog para compartilhar e contribuir</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 20 Feb 2020 20:18:39 -0300</pubDate>
-    <lastBuildDate>Thu, 20 Feb 2020 20:18:39 -0300</lastBuildDate>
+    <pubDate>Thu, 20 Feb 2020 21:11:05 -0300</pubDate>
+    <lastBuildDate>Thu, 20 Feb 2020 21:11:05 -0300</lastBuildDate>
     <generator>Jekyll v4.0.0</generator>
     
       <item>
-        <title>Who i am?</title>
+        <title>Upload de arquivos seguro com Django</title>
         <description>&lt;p class=&quot;music-read&quot;&gt;&lt;a href=&quot;spotify:track:4DAZ8UYNpWVIV46aLkN2Qp&quot;&gt;Music for reading(spotify)&lt;/a&gt;&lt;/p&gt; &lt;p&gt;&lt;img src=&quot;http://cdn1.tnwcdn.com/wp-content/blogs.dir/1/files/2016/02/raw.gif&quot; /&gt;&lt;/p&gt; &lt;h2 id=&quot;github--why-&quot;&gt;Github ? why ?&lt;/h2&gt; &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iste quas, esse laudantium quis ipsa consequuntur iure atque! Necessitatibus quam quidem illum, corrupti molestiae, maxime neque, consequuntur quia alias, modi commodi.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cupiditate rem ducimus dolores repellat itaque perferendis corporis ex dicta doloremque optio harum excepturi, ut, praesentium asperiores! Voluptatum amet perspiciatis iusto, fugiat!Lorem ipsum dolor sit amet, consectetur adipisicing elit. Harum, libero quia placeat necessitatibus culpa mollitia, illum, quam sed ratione ad eaque suscipit consectetur itaque quasi aperiam. Quaerat, nihil voluptas...</description>
+        <pubDate>Thu, 20 Feb 2020 18:06:31 -0300</pubDate>
+        <link>http://localhost:4000/django/</link>
+        <guid isPermaLink="true">http://localhost:4000/django/</guid>
+        
+        <category>django</category>
+        
+        
+        <category>development</category>
+        
+      </item>
+    
+      <item>
+        <title>Quem sou eu?</title>
+        <description>&lt;p&gt;Me chamo João Sabino, tenho 21 anos e vivo atualmente em Sarandi, no quente e querido noroeste Paranaense. Possuo formação técnica em Redes de Computadores pelo Senac e sou graduado na primeira turma do curso de Defesa Cibernética da FIAP. Sou extremamente apaixonado por tecnologia e por segurança da informação, atualmente sou Analista de Segurança da Informação na Conviso Application Security, uma das principais empresas de segurança de aplicações do Brasil. Criei este pequeno e humilde blog para compartilhar experiências, pesquisas e/ou qualquer coisa que seja interessante. Seja bem vindx e espero que aproveite e principalmente, que seja utíl para...</description>
         <pubDate>Wed, 20 Feb 2019 17:06:31 -0300</pubDate>
-        <link>http://localhost:4000/space/</link>
-        <guid isPermaLink="true">http://localhost:4000/space/</guid>
+        <link>http://localhost:4000/i/</link>
+        <guid isPermaLink="true">http://localhost:4000/i/</guid>
         
-        <category>mongodb</category>
+        <category>eu</category>
         
         
-        <category>Learn GH</category>
+        <category>eu</category>
         
       </item>
     
